@@ -21,9 +21,9 @@ If you're using Hexo admin from your live blog, you should definitely set up a p
 
 # Screenshots
 
-![login](http://olk3bzfd5.bkt.clouddn.com/pasted-1487403495592.png)
+![login](http://cdn.yunplus.io/pasted-1487403495592.png)
 
-![edit](http://olk3bzfd5.bkt.clouddn.com/pasted-1487403530943.png)
+![edit](http://cdn.yunplus.io/pasted-1487403530943.png)
 
 # Quickstart
 ### 1. Setup hexo & create a blog
@@ -84,11 +84,11 @@ of a new post.
 
 Get Your Qiniu Keys:
 
-![upload successful](http://olk3bzfd5.bkt.clouddn.com/pasted-1487403384624.png)
+![upload successful](http://cdn.yunplus.io/pasted-1487403384624.png)
 
 Get Your Qiniu Test Domain And Bucket:
 
-![upload successful](http://olk3bzfd5.bkt.clouddn.com/pasted-1487403438509.png)
+![upload successful](http://cdn.yunplus.io/pasted-1487403438509.png)
 To Support Qiniu, add the qiniu variable to your hexo
 `_config.yml`:
 ```
